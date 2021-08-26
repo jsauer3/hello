@@ -1,5 +1,7 @@
 /* Author: Jacob Sauer
    Date: 8/26/2021
+
+   A simple hello world program in C
    */
 
 #include <stdlib.h>
